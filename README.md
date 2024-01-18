@@ -1,1 +1,1 @@
-# Codes.animations
+# SMOOTH INFINITE MARQUEE WITH TEXT
